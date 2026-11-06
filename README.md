@@ -10,3 +10,5 @@ Network engineer by profession, photography enthusiast by passion. I especially 
 - 🧪 I like understanding how complex systems work through careful experiments
 
 Thanks for stopping by!
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xyl-g&show_icons=true&theme=transparent)
