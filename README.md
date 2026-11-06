@@ -11,4 +11,4 @@ Network engineer by profession, photography enthusiast by passion. I especially 
 
 Thanks for stopping by!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xyl-g&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=xyl-g&show_icons=true&include_all_commits=true&disable_animations=true&theme=light_github)
